@@ -1,0 +1,25 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1vNzoUfszWvbaCDfT1slPfLbgfLve95Bg5zRWG_qxKtAmlb_ldQHBz1AVGIPwXI5zfnbH3TNK62gcE-M41GUzO2LknTYMP8kNJCuUwzTlBiHsqtxtT_2HvQ8&usqp=CAE",
+            "name": "Nike Alpha Huarache Elite I-web Infield 11.25-inch Rht Baseball Glove",
+            "description": "The Nike Alpha Glove is made for the infield with an extra deep pocket and 3 length options for your preferred play style. A strategically placed index finger pad helps absorb impact and adds comfort to this full-grain leather design. Shown: Black Style: N1000289-049",
+            "price": 2200.77
+        },
+        {
+            "id": 2,
+            "photo": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ85eBik4trCzCIXF6gJi4vcHYqQOd3Dc8b42wSjXN-W7Cxv3TWUPk5kI84bX9KxJg8pvpknSl0wqWZtf-faGGeeE4w21tfD_2314XZY7PJJoPUfjSv8DjL&usqp=CAY",
+            "name": "Rawlings Pro Preferred Series Pros20530c 11.75 Baseball Glove-rht",
+            "description": "Rawlings Pro Preferred Series PROS20530C 11.75\" Baseball Glove The 2021 Pro Preferred 11.75-inch infield/pitcher's glove is built for excellence. It was meticulously crafted from flawless, full-grain kip leather, which is known for its unmatched feel, quality, and performance. ",
+            "price": 1871.78
+        },
+        {
+            "id": 3,
+            "photo": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSoANC-qhYvGpqpIYkIb8jHMFbp_pbSyJN4TsouCdKnPyu2JK017jYo5dGZkUcZlNFS94mjsXvA0kcawA6A-FTpe0JmMz5mP6m_trOuhcr&usqp=CAE",
+            "name": "Under Armour Flawless Series Black 11.75\" Baseball Glove-rht",
+            "description": "Under Armour Flawless Series Black 11.75\" Baseball Glove • Top 5% Japanese tanned steer hide provides soft hand and unmatched durability • World-Class Pittard's palm lining enhances the feel • Premium grade, U.S. tanned lacing add strength and support • Rolled leather welting for long lasting shape",
+            "price": 1819.77
+        }
+    ]
+}
